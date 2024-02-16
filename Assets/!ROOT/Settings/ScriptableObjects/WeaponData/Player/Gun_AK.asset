@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba49fe142c8d4b946af56703437c2240, type: 3}
+  m_Name: Gun_AK
+  m_EditorClassIdentifier: 
+  model: {fileID: 3294366358555775837, guid: 6d7091e65d068044fade9f8cebb23892, type: 3}
+  position: {x: 0.0041, y: 0.057, z: 0.0118}
+  rotation: {x: 180, y: 270, z: 0}
+  atk: 4
+  color: 2
+  cost: 2
+  type: 2
+  handType: 1
+  bulletObj: {fileID: 6760980954446917571, guid: 0173454a9df36fe47bdfd57b6a71ceb0,
+    type: 3}
+  bulletSpeed: 70
+  bulletCount: 2

@@ -1,0 +1,21 @@
+{
+    "name": "Assembly_Jubatus",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d60799ab2a985554ea1a39cd38695018",
+        "GUID:d023e793fa2df954098ade61d47efd82",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:cfa10194fbea1374fae9743b537f39b1",
+        "GUID:6c0dee2ba25128a42acb1072553680b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

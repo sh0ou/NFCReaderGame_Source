@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 102e9711329792044980ac68afb8129f, type: 3}
+  m_Name: CardData_3
+  m_EditorClassIdentifier: 
+  id: 012E50E7DAD2B0A6
+  systemCode: 34996
+  isAllowAllIDm: 0
+  sprite: {fileID: 21300000, guid: ce12ead84c8e650439f2e694f2c78a30, type: 3}
+  weaponData: {fileID: 11400000, guid: 7a60188c3bfb4c74e935d29c7f7fbd74, type: 2}

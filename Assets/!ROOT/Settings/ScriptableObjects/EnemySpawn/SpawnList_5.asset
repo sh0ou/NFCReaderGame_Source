@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8a974aaafe70a4d83346303021494b, type: 3}
+  m_Name: SpawnList_5
+  m_EditorClassIdentifier: 
+  sceneName: 
+  enemySpawnDatas:
+  - prefab: {fileID: 484186003195503281, guid: dbdd3582726fd5d43894ebc3998c2a40, type: 3}
+    spawnPos: {x: -13, y: 8.5, z: 28.75}
+  - prefab: {fileID: 484186003195503281, guid: dbdd3582726fd5d43894ebc3998c2a40, type: 3}
+    spawnPos: {x: -13, y: 8.5, z: 31.25}
+  - prefab: {fileID: 7831110790399575608, guid: 437c242741847de4da496ad28c53877c,
+      type: 3}
+    spawnPos: {x: -13, y: 8.5, z: 33.25}
+  - prefab: {fileID: 484186003195503281, guid: dbdd3582726fd5d43894ebc3998c2a40, type: 3}
+    spawnPos: {x: -30.25, y: 8.5, z: -1.5}
+  - prefab: {fileID: 484186003195503281, guid: dbdd3582726fd5d43894ebc3998c2a40, type: 3}
+    spawnPos: {x: -30.25, y: 8.5, z: -4}
+  - prefab: {fileID: 7831110790399575608, guid: 437c242741847de4da496ad28c53877c,
+      type: 3}
+    spawnPos: {x: -30.25, y: 8.5, z: 0.5}
+  - prefab: {fileID: 7831110790399575608, guid: 437c242741847de4da496ad28c53877c,
+      type: 3}
+    spawnPos: {x: -10, y: 8.5, z: 10}
+  - prefab: {fileID: 484186003195503281, guid: dbdd3582726fd5d43894ebc3998c2a40, type: 3}
+    spawnPos: {x: -10, y: 8.5, z: 8}
+  - prefab: {fileID: 484186003195503281, guid: dbdd3582726fd5d43894ebc3998c2a40, type: 3}
+    spawnPos: {x: -10, y: 8.5, z: 5.5}
